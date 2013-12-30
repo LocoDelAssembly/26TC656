@@ -70,7 +70,7 @@ Button buttons[] = {
   {"CANAL-", CH_DOWN},
   {"VOLUMEN+", VO_UP},
   {"VOLUMEN-", VO_DOWN},
-  {"MUTE", MUTE},
+  {"PAUSA", MUTE},
   {"2", CH_1},
   {"3", CH_2},
   {"4", CH_3},
